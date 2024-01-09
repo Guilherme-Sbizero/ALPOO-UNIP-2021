@@ -1,2 +1,5 @@
-# ALPOO-UNIP-2021
- Repositório com conteúdo das aulas de Aplicando Linguagem de Programação Orientado a Objetos (ALPOO).
+# ALPOO UNIP 2021/2
+
+## Aplicando a Linguagem de Programação Orientado a Objetos.
+
+- Repositória para mostrar os exercícios feitos nas aulas de Linguagem de Programação Orientado a Objetos com Java.
